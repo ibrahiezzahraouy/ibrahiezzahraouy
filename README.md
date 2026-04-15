@@ -64,18 +64,6 @@ Before that, at Shift Technology, I designed a novel **two-step detection pipeli
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahiezzahraouy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiezzahraouy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"The best model is the one in production."* 🚀
